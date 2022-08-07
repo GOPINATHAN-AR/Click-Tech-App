@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17610656305",
+    "project_id": "click-technology",
+    "storage_bucket": "click-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17610656305:android:34e6e7efc79567e16c2310",
+        "android_client_info": {
+          "package_name": "com.example.click_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17610656305-rpa7n94ug3eucto9v2g69rtd03slamgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wTTcreYMIkkT-0O5FSCZUBACuIlt_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17610656305-rpa7n94ug3eucto9v2g69rtd03slamgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
